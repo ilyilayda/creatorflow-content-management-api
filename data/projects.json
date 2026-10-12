@@ -1,0 +1,29 @@
+[
+  {
+    "id": "project_001",
+    "name": "Trend Kurs Social Media",
+    "clientName": "Trend Kurs",
+    "description": "Education brand social content",
+    "status": "active",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "project_002",
+    "name": "Brew Haven Launch",
+    "clientName": "Brew Haven",
+    "description": "Specialty coffee marketing",
+    "status": "active",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "project_003",
+    "name": "NovaTech Community",
+    "clientName": "NovaTech",
+    "description": "Technology community marketing",
+    "status": "active",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  }
+]

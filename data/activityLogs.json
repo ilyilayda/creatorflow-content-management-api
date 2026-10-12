@@ -1,0 +1,65 @@
+[
+  {
+    "id": "log_e2bfa253-0572-4a06-8555-84c58e267425",
+    "actorId": null,
+    "entityType": "content",
+    "entityId": "content_6ff8f704-a279-46b2-b66a-ec04697e72a7",
+    "action": "start",
+    "details": null,
+    "createdAt": "2026-10-12T15:03:32.660Z"
+  },
+  {
+    "id": "log_d52c3b68-0bf5-4728-adef-9b630ba01442",
+    "actorId": null,
+    "entityType": "content",
+    "entityId": "content_6ff8f704-a279-46b2-b66a-ec04697e72a7",
+    "action": "submitReview",
+    "details": null,
+    "createdAt": "2026-10-12T15:05:07.326Z"
+  },
+  {
+    "id": "log_9f523aa4-4689-4d06-a147-88c1b3562723",
+    "actorId": "user_001",
+    "entityType": "content",
+    "entityId": "content_6ff8f704-a279-46b2-b66a-ec04697e72a7",
+    "action": "requestRevision",
+    "details": "Please improve the readability of the carousel headings and increase the contrast between orange and white elements.",
+    "createdAt": "2026-10-12T15:23:09.334Z"
+  },
+  {
+    "id": "log_68834ebc-a69b-4fdc-aa78-3631646441f4",
+    "actorId": null,
+    "entityType": "content",
+    "entityId": "content_6ff8f704-a279-46b2-b66a-ec04697e72a7",
+    "action": "resubmit",
+    "details": null,
+    "createdAt": "2026-10-12T15:26:47.467Z"
+  },
+  {
+    "id": "log_b4e4e1fe-21a7-4195-98d4-86f3af25d8d3",
+    "actorId": "user_001",
+    "entityType": "content",
+    "entityId": "content_6ff8f704-a279-46b2-b66a-ec04697e72a7",
+    "action": "approve",
+    "details": "The revised carousel design meets our quality standards and is approved for publication.",
+    "createdAt": "2026-10-12T15:30:34.832Z"
+  },
+  {
+    "id": "log_f85f7db9-85e1-47a8-a59c-e51d354dffa7",
+    "actorId": null,
+    "entityType": "content",
+    "entityId": "content_6ff8f704-a279-46b2-b66a-ec04697e72a7",
+    "action": "schedule",
+    "details": null,
+    "createdAt": "2026-10-12T15:32:05.364Z"
+  },
+  {
+    "id": "log_67a215ee-57c6-41d7-a4e5-3bd049ad1f80",
+    "actorId": null,
+    "entityType": "content",
+    "entityId": "content_6ff8f704-a279-46b2-b66a-ec04697e72a7",
+    "action": "publish",
+    "details": null,
+    "createdAt": "2026-10-12T15:35:43.586Z"
+  }
+]

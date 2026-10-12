@@ -1,0 +1,47 @@
+[
+  {
+    "id": "campaign_001",
+    "projectId": "project_001",
+    "title": "October 2026 Education Content",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-31",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "campaign_002",
+    "projectId": "project_001",
+    "title": "November Exam Prep",
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-30",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "campaign_003",
+    "projectId": "project_002",
+    "title": "Autumn Coffee Launch",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-31",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "campaign_004",
+    "projectId": "project_002",
+    "title": "Holiday Promotions",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-31",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "id": "campaign_005",
+    "projectId": "project_003",
+    "title": "Developer Community Growth",
+    "startDate": "2026-10-01",
+    "endDate": "2026-11-15",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:00:00.000Z"
+  }
+]

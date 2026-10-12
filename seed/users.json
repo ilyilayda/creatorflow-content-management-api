@@ -1,0 +1,38 @@
+[
+  {
+    "id": "user_001",
+    "name": "Elif Yilmaz",
+    "email": "elif@example.com",
+    "role": "manager"
+  },
+  {
+    "id": "user_002",
+    "name": "Deniz Kaya",
+    "email": "deniz@example.com",
+    "role": "designer"
+  },
+  {
+    "id": "user_003",
+    "name": "Mert Arslan",
+    "email": "mert@example.com",
+    "role": "editor"
+  },
+  {
+    "id": "user_004",
+    "name": "Selin Demir",
+    "email": "selin@example.com",
+    "role": "copywriter"
+  },
+  {
+    "id": "user_005",
+    "name": "Ece Aksoy",
+    "email": "ece@example.com",
+    "role": "manager"
+  },
+  {
+    "id": "user_006",
+    "name": "Can Oz",
+    "email": "can@example.com",
+    "role": "video_editor"
+  }
+]

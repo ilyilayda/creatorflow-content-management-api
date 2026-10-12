@@ -1,0 +1,106 @@
+[
+  {
+    "id": "approval_001",
+    "contentId": "content_003",
+    "reviewerId": "user_001",
+    "decision": "revision_requested",
+    "comment": "Please adjust the design.",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_002",
+    "contentId": "content_004",
+    "reviewerId": "user_001",
+    "decision": "approved",
+    "comment": "Looks good!",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_003",
+    "contentId": "content_005",
+    "reviewerId": "user_001",
+    "decision": "approved",
+    "comment": "Looks good!",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_004",
+    "contentId": "content_006",
+    "reviewerId": "user_001",
+    "decision": "approved",
+    "comment": "Looks good!",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_005",
+    "contentId": "content_010",
+    "reviewerId": "user_001",
+    "decision": "revision_requested",
+    "comment": "Please adjust the design.",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_006",
+    "contentId": "content_011",
+    "reviewerId": "user_001",
+    "decision": "approved",
+    "comment": "Looks good!",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_007",
+    "contentId": "content_012",
+    "reviewerId": "user_001",
+    "decision": "approved",
+    "comment": "Looks good!",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_008",
+    "contentId": "content_013",
+    "reviewerId": "user_001",
+    "decision": "approved",
+    "comment": "Looks good!",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_009",
+    "contentId": "content_017",
+    "reviewerId": "user_001",
+    "decision": "revision_requested",
+    "comment": "Please adjust the design.",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_010",
+    "contentId": "content_018",
+    "reviewerId": "user_001",
+    "decision": "approved",
+    "comment": "Looks good!",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_011",
+    "contentId": "content_019",
+    "reviewerId": "user_001",
+    "decision": "approved",
+    "comment": "Looks good!",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_012",
+    "contentId": "content_020",
+    "reviewerId": "user_001",
+    "decision": "approved",
+    "comment": "Looks good!",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  },
+  {
+    "id": "approval_013",
+    "contentId": "content_024",
+    "reviewerId": "user_001",
+    "decision": "revision_requested",
+    "comment": "Please adjust the design.",
+    "createdAt": "2026-10-02T10:00:00.000Z"
+  }
+]

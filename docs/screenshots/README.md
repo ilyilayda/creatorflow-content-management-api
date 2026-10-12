@@ -1,0 +1,1 @@
+Put your own Postman screenshots here after running requests locally: 01-create.png, 02-list.png, 03-detail.png, 04-update.png, 05-delete.png. No placeholder image counts as proof of a successful API call.
